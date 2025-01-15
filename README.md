@@ -1,15 +1,34 @@
-### Hi there 👋 i'm decodedfaith 🤖
 
+# Hey, I’m DecodedFaith! 👋 🤖  
 
-##### I enjoy writing codes and solving problems with it. I love exploring the world of tech to better understand and implement its ideas.
+A **creative problem-solver** passionate about building impactful tech solutions. I specialize in **mobile app development**, **web technologies**, and **geophysical data analysis**, always striving to push boundaries in innovative ways.  
 
+## 🚀 What I’m Working On  
+- 🌍 **Geophysics Meets Machine Learning**: Developing an ML algorithm to predict Earth's subsurface features using advanced geophysical techniques.  
+- 🔗 **Web3 Explorer**: Diving into **Solidity**, **blockchain technology**, and **Web3 development** for decentralized solutions.  
+- 📱 **Chess Game App**: Creating a mobile chess game with **Flutter** and **Bloc architecture**, combining fun and functionality.  
 
-- 🔭 I’m currently Exploring and working on interesting and creative Projects and ideas that jumps right at me...
-- 🌱 I’m learning Solidity/blockchain technology, web3 development...
-- 👯 I’m looking to collaborate on Projects, Ideas and challenges that solves problems...
-- 💬 Ask me about Web development, Flutter/dart, javascript, Andriod/IOS development...
-- 📫 How to reach me: komolafefaith@gmail.com
-- ⚡ Fun fact: I play Chess and Football and I also enjoy reading new things...
-- Currently working on an ML algorithm for predictive identification of features within Earth's subsurface using know geophysical methods
+## 💼 Let’s Collaborate  
+I’m excited to work on:  
+- Innovative **mobile and cross-platform app development**  
+- **Geophysical applications** leveraging **machine learning**  
+- **Blockchain/Web3 projects** that drive change  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=decodedfaith&count_private=true&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ My Toolbox  
+- **Languages & Frameworks**: Dart, Flutter, Swift, JavaScript, React, Solidity  
+- **Specialties**: Mobile app development, geophysical data processing, machine learning, blockchain integration  
+
+## 🎯 Beyond the Code  
+- ♟️ **Chess strategist** & **football enthusiast**  
+- 📚 Lifelong learner exploring **tech innovations** and **industry trends**  
+
+## 📬 Reach Out  
+- ✉️ [komolafefaith@gmail.com](mailto:komolafefaith@gmail.com)  
+- 🌐 [GitHub](https://github.com/decodedfaith)  
+
+---
+
+### GitHub Highlights  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=decodedfaith&count_private=true&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
+---  
