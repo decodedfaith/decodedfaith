@@ -1,4 +1,3 @@
-
 # Hey, I’m DecodedFaith! 👋 🤖  
 
 A **creative problem-solver** passionate about building impactful tech solutions. I specialize in **mobile app development**, **web technologies**, and **geophysical data analysis**, always striving to push boundaries in innovative ways.  
@@ -24,11 +23,6 @@ I’m excited to work on:
 
 ## 📬 Reach Out  
 - ✉️ [komolafefaith@gmail.com](mailto:komolafefaith@gmail.com)  
-- 🌐 [GitHub](https://github.com/decodedfaith)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/faithadetunji/)  
 
 ---
-
-### GitHub Highlights  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=decodedfaith&count_private=true&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
----  
