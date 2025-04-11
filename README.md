@@ -21,8 +21,6 @@ I’m excited to work on:
 - ♟️ **Chess strategist** & **football enthusiast**  
 - 📚 Lifelong learner exploring **tech innovations** and **industry trends**  
 
-## 📬 Reach Out  
-- ✉️ [komolafefaith@gmail.com](mailto:komolafefaith@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/faithadetunji/)  
+
 
 ---
