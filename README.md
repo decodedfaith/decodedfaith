@@ -1,46 +1,23 @@
 <div align="center">
-  
-  ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=DecodedFaith&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%20Bit%20by%20Bit&descAlignY=55&descAlign=50)
 
-  ### 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33CC33&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;Geophysical+Data+Analyst;Blockchain+%26+Web3+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=55&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=800&lines=DECODEDFAITH;ARCHITECTING+DIGITAL+LEGACIES;ENGINEERING+EXCELLENCE" alt="Typing SVG" />
 
-  <br/>
-
-  <a href="https://github.com/DecodedFaith">
-    <img src="https://img.shields.io/badge/Status-Building%20Impactful%20Tech-success?style=for-the-badge&logo=github&logoColor=white&color=2ea44f" />
-  </a>
-  <a href="https://github.com/DecodedFaith?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-29%2B-blue?style=for-the-badge&logo=github&logoColor=white&color=0366d6" />
-  </a>
-  
 </div>
 
----
-
 <div align="center">
-  
-  ### 🚀 About Me
-  
-  > *"Innovation distinguishes between a leader and a follower."*
-  
-  I'm **DecodedFaith**, a passionate developer bridging the gap between **Geophysics** and **Software Engineering**. I specialize in building robust mobile applications, exploring the decentralized web, and applying machine learning to solve complex earth science problems.
-
+  <img src="https://github-readme-stats.vercel.app/api?username=DecodedFaith&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=D4AF37&text_color=e5e5e5&icon_color=D4AF37&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodedFaith&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=D4AF37&text_color=e5e5e5&icon_color=D4AF37" height="160" />
 </div>
 
 <br/>
 
-<div align="center">
-  
-  ### 🛠️ Technical Arsenal
-  
-  | **Core** | **Mobile** | **Web3 & Backend** | **Tools** |
-  | :---: | :---: | :---: | :---: |
-  | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+<div align="center" style="font-family: 'Georgia', serif;">
+
+  ### 🏛️ THE MANIFESTO
+
+  > *"In an era of ephemeral code, we build for permanence."*
+
+  I am a **Strategic Technologist** and **Geophysical Analyst** dedicated to crafting robust, scalable solutions. My work lies at the intersection of **High-Fidelity Mobile Architecture**, **Decentralized Ecosystems**, and **Geospatial Intelligence**. I do not just write code; I engineer **digital assets** that drive enterprise value and solve complex, real-world problems.
 
 </div>
 
@@ -48,97 +25,47 @@
 
 <div align="center">
 
-  ### 📊 GitHub Stats
-  
-  <a href="https://github.com/DecodedFaith">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DecodedFaith&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="DecodedFaith's GitHub Stats" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/DecodedFaith">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DecodedFaith&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="DecodedFaith's Streak" />
-  </a>
+### ⚔️ THE CRAFT
 
-  <br/>
-
-  <a href="https://github.com/DecodedFaith">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodedFaith&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  </a>
+| **ARCHITECTURE & LOGIC** | **USER EXPERIENCE** | **INFRASTRUCTURE** |
+| :---: | :---: | :---: |
+| ![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=D4AF37) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=D4AF37) | ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=D4AF37) ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=D4AF37) | ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=D4AF37) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=D4AF37) |
+| ![Solidity](https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=D4AF37) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=D4AF37) | ![Swift](https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=D4AF37) ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=D4AF37) | ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=D4AF37) |
 
 </div>
 
 <br/>
 
----
+### 📜 THE OPUS
 
-### 🔭 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌍 Geophysics ML</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      </div>
-      <p align="center">Developing an advanced ML algorithm to predict Earth's subsurface features using geophysical data.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">♟️ Flutter Chess</h3>
-      <div align="center">
-        <a href="https://github.com/decodedfaith/flutter_chess">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bloc-Clean_Arch-success?style=flat-square" />
-        </a>
-      </div>
-      <p align="center">A feature-rich mobile chess game built with Flutter and Bloc architecture, focusing on performance and UI.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔗 Web3 Explorer</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-      </div>
-      <p align="center">Exploring decentralized solutions and smart contracts on the blockchain.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💬 ZuriChat App</h3>
-      <div align="center">
-        <a href="https://github.com/zurichat/zc_app">
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/Open_Source-Contribution-blueviolet?style=flat-square" />
-        </a>
-      </div>
-      <p align="center">Contributing to a major open-source collaboration platform.</p>
-    </td>
-  </tr>
-</table>
+| **PROJECT** | **CLASSIFICATION** | **CORE TECHNOLOGIES** |
+| :--- | :--- | :--- |
+| **[JOLLYCAST](https://github.com/decodedfaith/jollycast)** | *Enterprise Audio Streaming Platform* | `Flutter` `Riverpod` `Clean Architecture` |
+| **[MINERAL MAP](https://github.com/decodedfaith/nigeria-mineral-map)** | *Geospatial Intelligence System* | `Geophysics` `Data Visualization` |
+| **[FLUTTER CHESS](https://github.com/decodedfaith/flutter_chess)** | *Algorithmic Game Engine* | `Flutter` `Bloc` `Advanced Logic` |
+| **[MINTYN CLONE](https://github.com/decodedfaith/MintynClone)** | *High-Fidelity Fintech Interface* | `Flutter` `UI/UX` `Financial Tech` |
 
 <br/>
 
 <div align="center">
-  
-  ### 🤝 Let's Connect
-  
-  <a href="https://github.com/DecodedFaith">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 
-  <br/>
-  <br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=DecodedFaith&color=blueviolet&style=flat-square&label=Profile+Views)
+### 🖋️ CORRESPONDENCE
+
+*Open for Strategic Alliances & High-Level Consultation*
+
+<a href="mailto:komolafefaith@gmail.com">
+  <img src="https://img.shields.io/badge/ELECTRONIC_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
+</a>
+<a href="https://www.linkedin.com/in/faithadetunji/">
+  <img src="https://img.shields.io/badge/PROFESSIONAL_NETWORK-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
+</a>
+<a href="https://x.com/decodedfaith">
+  <img src="https://img.shields.io/badge/DIRECT_FEED-000000?style=for-the-badge&logo=x&logoColor=D4AF37" />
+</a>
+
+<br/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DecodedFaith&color=orange&style=flat-square&label=THE+LEGACY)
 
 </div>
