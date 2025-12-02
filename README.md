@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=DecodedFaith&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%20Bit%20by%20Bit&descAlignY=55&descAlign=50)
+  ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%20Bit%20by%20Bit&descAlignY=55&descAlign=50)
 
   ### 
   <a href="https://git.io/typing-svg">
