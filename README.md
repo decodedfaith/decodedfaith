@@ -27,6 +27,8 @@
   > *"Innovation distinguishes between a leader and a follower."*
   
   I'm **DecodedFaith**, a passionate developer bridging the gap between **Geophysics** and **Software Engineering**. I specialize in building robust mobile applications, exploring the decentralized web, and applying machine learning to solve complex earth science problems.
+  
+  🌐 **Check out my Portfolio:** [faithk.vercel.app](https://faithk.vercel.app/)
 
 </div>
 
@@ -138,6 +140,9 @@
   </a>
   <a href="https://x.com/decodedfaith">
     <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://faithk.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
   <br/>
