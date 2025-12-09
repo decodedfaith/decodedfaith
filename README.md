@@ -156,7 +156,5 @@
 
   <br/>
   <br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=DecodedFaith&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
